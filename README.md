@@ -1,3 +1,3 @@
 # UnitSelection
-C++ program for master thesis  
-Viterbi algorithm for unit selection from given data set
+C++ program for master thesis:  
+Viterbi algorithm
